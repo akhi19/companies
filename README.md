@@ -13,7 +13,7 @@ docker-compose up --build
 2. Open app and click on Import.
 3. Select Link and copy the following url in the box: https://www.getpostman.com/collections/c4059465335c7130d324
 4. Press Continue
-5. You should now see collection name: Work Planner
+5. You should now see collection name: 'Company Collection'
 6. Click Import
 7. You can now start hitting API's from the imported collection
 
